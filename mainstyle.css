@@ -1,0 +1,136 @@
+/*body {
+  background-image: url('thumb-1920-67393.jpg');
+} /*
+
+/* This is font color  */
+
+
+#first {color: blue};
+#second {color: green;}
+#four{color: green;}
+#five{color: green;}
+#six{color: green;}
+#seven{color: green;}
+#eight{color: green;}
+#nine{color: green;}
+#ten{color: green;}
+
+
+
+
+
+
+/* This is font size */
+
+
+#first {
+
+
+	font-size: 40px;
+
+	font-style: italic;
+}
+
+
+
+#second {
+
+
+	font-size: 35px;
+}
+
+
+
+#three{
+
+	font-size: 30px;
+}
+
+
+
+
+#four {
+
+
+	font-size: 25px;
+}
+
+
+
+#five {
+
+
+	font-size: 20px;
+}
+
+
+
+
+#six{
+
+
+	font-size: 15px;
+}
+
+
+
+#seven{
+
+
+	font-size: 14px;
+}
+
+
+
+#eight {
+
+
+	font-size: 12px;
+}
+
+
+
+
+#nine {
+
+
+	font-size: 11px;
+}
+
+
+#ten{
+
+
+	font-size: 10px;
+}
+
+
+
+
+
+
+/* class usied */
+
+
+
+
+.jam{
+
+
+
+
+	color: yellow;
+	
+	font-size: 30pz;
+
+
+}
+
+
+
+.komola{
+
+	color: pink;
+
+	font-size: yellow;
+}
