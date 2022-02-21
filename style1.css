@@ -1,0 +1,150 @@
+
+/*how to make a div */
+
+
+#mamun{
+	font-size: 50px;
+
+	background-color: red;
+
+	width: 600px;
+	height: 120px;
+
+       font-style: italic;
+/* size samne pichone neyar code */
+
+	margin-top: 100px;
+	margin-bottom: 65px;
+	margin-left: 250px;
+
+
+/* picture boro korqa  */
+
+    padding: 50px;
+
+}
+
+
+
+
+#sakib{
+
+       font-size: 50PX;
+       background-color: green;
+       width: 600PX;
+       height: 130PX;
+       font-style: italic;
+       margin-top: 100px;
+	margin-bottom: 65px;
+	margin-left: 250px;
+       padding: 50px;
+
+
+
+
+}
+
+
+
+
+
+/* overflow table scroll er moton  */
+
+
+#div1{
+
+
+	border: 20px solid red ;
+
+	width: 200px ;
+	height: 200px;
+
+	overflow: scroll;
+
+       padding: 50px;
+}
+
+
+#div1{
+
+	color: blue;
+	font-size: 20px;
+	font-style: italic;
+
+}
+
+
+
+
+
+/* hover code  eitar kag hocce cono button er upor jodi mouse
+ niye zaowa hoy tahole mouse rakhle ek color hoye javbe,,are mouse uthale arekcolor hoye jabe   */
+
+
+
+
+
+
+#hover{
+
+
+
+	background-color: blue;
+	border: 10px solid black ;
+         font-size: 24px;
+         font-style: italic;
+         color: red;
+
+
+         height: 300px;
+         width: 200px;
+        
+
+         margin-top: -450px;
+
+         margin-bottom: 65px;
+         margin-left: 400px;
+         padding: 20px;
+         overflow: scroll;
+
+
+
+}
+
+
+/*mouse neyar age emon hobe */
+
+.hoverr{
+
+          background-color: red;
+          background: linear-gradient(to bottom,blue ,green,white,black);
+          height: 200px;
+          width: 300px;
+
+
+}
+
+
+/*mouse neyar pore  emon hobe */
+
+.hoverr:hover {
+	 background-color: blue;
+
+          height: 240px;
+          width: 220px;
+          transition: background-color 7s ,width 10s ;
+          background: linear-gradient(to bottom,blue ,green,white,black);
+
+
+}
+
+
+h1:hover {
+
+	color: red ;
+	font-size: 60px;
+
+}
+
+
+/* transiction background second */
