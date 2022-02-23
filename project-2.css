@@ -1,0 +1,154 @@
+*{
+
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+
+
+}
+
+body{
+
+
+
+	background-image: url(blue-gravel-sands-texture-background-many-uses-advertising-book-page-paintings-printing-mobile-backgrounds-covers-screen-203474715.jpg);
+
+	background-size: cover;
+	background-position: center;
+
+	
+	font-family: sans-serif;
+
+}
+
+.menu{
+
+    background-color: yellowgreen;
+    text-align: center;
+
+}
+
+.menu ul 
+{
+
+display: inline-flex ;
+
+list-style: none;
+
+color: white;
+
+}
+
+.menu ul li
+{
+
+
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
+
+
+.menu ul li a 
+
+{
+
+
+	text-decoration: none;
+
+	color: white;
+
+
+}
+
+.active, .menu ul li:hover 
+
+
+
+{
+     
+
+background: blue;
+border-radius: 3 px;
+
+
+}
+
+
+.menu .fa
+
+{
+
+
+margin-right: 8px;
+
+
+
+}
+
+
+.sub-line-1
+{
+
+
+
+	display: none;
+
+}
+
+.menu ul li:hover  .sub-line-1 
+
+{
+
+
+	display: block;
+	position: absolute;
+	background-color: green;
+
+	margin-top: 15px;
+	margin-left: -15px;
+}
+.menu ul li:hover  .sub-line-1 ul
+{
+
+	display: block;
+	margin: 10px;
+}
+
+
+.menu ul li:hover  .sub-line-1 ul li 
+{
+
+
+
+	width:150px ;
+	padding:10px ;
+	border bottom: 1px dotted #fff ;
+
+	background: transparent ;
+
+	border-radius: 0;
+
+	text-align: left;
+}
+
+
+
+
+.menu ul li:hover  .sub-line-1 ul li a:hover
+
+
+{
+
+
+	color: red;
+}
+
+
+
+
+
+
+
