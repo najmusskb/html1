@@ -1,0 +1,291 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.design{
+
+	height: 100vh;
+	width: 100%;
+
+      background-image: url(wallpaper2you_33223.jpg);
+
+	background-position: center;
+	background-size: cover;
+	padding-left: 5%;
+	padding-right: 5%;
+	box-sizing: border-box;
+	position: relative;
+
+
+}
+
+
+.design1{
+
+	width: 100%;
+	height: 20vh;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	
+
+
+
+
+
+
+}
+
+
+#home{
+
+
+color: white;
+}
+
+
+
+.logoo{
+
+
+
+	width: 100px;
+	cursor: pointer;
+}
+
+
+.Logooo{
+	width: 100px;
+	cursor: pointer;
+
+}
+
+nav{
+
+	flex: 1 ;
+	padding-left: 60px;
+}
+
+nav ul li {
+
+
+
+	display: inline-block;
+	list-style: none;
+	margin: 0px 20px;
+}
+
+
+
+nav ul li a{
+
+      text-decoration: none;
+      color: #333 ;
+
+
+}
+
+
+.contant a{
+
+	font-size: 40px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.contant h1{
+
+	font-size: 30px;
+
+	font-weight: 250;
+
+	margin-top: 24px;
+	margin-bottom:15px ;
+
+	color: darkblue;
+
+	font-style:bold;
+
+}
+
+.contant p{
+
+	font-size: 15px;
+
+	color:green;
+}
+
+
+
+.contant {
+
+
+margin-left: 10%;
+margin-top: 10%;
+}
+
+
+.contant .link {
+
+	display: inline-block;
+
+	background: linear-gradient(45deg,blue,green);
+	border-radius: 6px;
+
+	padding: 10px 20px;
+	box-sizing: border-box;
+	text-decoration: none;
+	color: white;
+	box-shadow: 3px 8px 22px rgba(94,28,68,0.15);
+	font-style:italic;
+
+
+
+
+}
+
+/*.icons{
+
+	margin-top:20 px ;
+	margin-bottom: 10px;
+	display: flex;
+}
+
+
+.icons img {
+     
+
+	width: 25px;
+	margin-right: 170px;
+} */
+
+
+
+
+
+
+
+
+.profileimg{
+
+    
+         height: 310px;
+         width: 250px;
+         margin-top: -390px;
+         margin-bottom: 80px;
+         margin-left: 700px;
+
+	position: absolute;
+	
+}
+
+
+
+
+
+
+
+.sociallinks{
+
+
+	transform: rotate(-90deg);
+	position: absolute;
+	left: -80px;
+	bottom: 180px;
+
+
+}
+
+.sociallinks a {
+
+text-decoration: none;
+color: blue;
+pading right: 20px;
+font: 20px;
+
+
+
+
+
+}
+
+
+
+
+
+#university{
+
+
+	font-size: 20px;
+
+
+}
+
+
+#department{
+
+
+
+	font-size: 20px;
+
+}
+
+
+
+
+
+.scroll p{
+
+
+
+	  background-color: lightskyblue ;
+	  border: 8 px solid black ;
+         font-size: 12px;
+         font-style: bold;
+         color: black;
+
+
+         height: 100px;
+         width: 350px;
+        
+
+
+         margin-top: -208px;
+
+         margin-bottom: 80px;
+         margin-left: 500px;
+         padding: 55px;
+         overflow: scroll;
+
+}
+
+
+
+
+
+.bigpic {
+
+          width: 400px;
+          height: auto;
+
+
+          position: absolute;
+          bottom: 0;
+          right: 20px;
+         
+
+     
+
+
+
+}
